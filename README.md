@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AlanHianWu.github.io
+- 🌱 I’m currently learning typeScript, webassembly
+- 📫 How to reach me: email alanhianwu@gmail.com
+
 <!--
 **AlanHianWu/AlanHianWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
