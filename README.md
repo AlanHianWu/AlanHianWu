@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [my website](https://alanhianwu.github.io/)
-- 🌱 I’m currently learning typeScript, webassembly
+- 🔭[my website](https://alanhianwu.github.io/)
 - 📫 How to reach me: 
   - email: alan.hian.wu@gmail.com
 
